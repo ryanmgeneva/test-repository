@@ -1,2 +1,2 @@
-Here is an example text. Here is some more sample text to be added in commit two on a branch other than the main branch.
-Here is A CONFLICT! Ooo, spooky scary!
+Here is an example text. Here is some more sample text to be added in commit two on a branch other than the main branch. Here is the third edit to this code, adding this line right here!
+
